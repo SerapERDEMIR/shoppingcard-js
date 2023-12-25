@@ -1,4 +1,4 @@
-# shoppingcard
+# shoppingcard-js
 * Enjoy a seamless shopping experience with our responsive site design! When you add a product to your cart, the cart dynamically updates to display the accurate price of the selected item.
 
 * Planning a bigger haul? No worries! As you continue adding more products to your cart, the system effortlessly calculates the total shopping amount, ensuring you stay informed about your purchases.
